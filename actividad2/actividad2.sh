@@ -21,7 +21,7 @@ echo "Hola $GITHUB_USER. User ID: $USER_ID. Cuenta fue creada el: $CREATED_AT." 
 
 #Para configurar el cronjob y que el script se ejecute cada 5 min, se deben ejecutar los siguientes comandos
 #~$ crontab -e
-#Se elije el editor para configurar el archivo de cronjobs
+#Se elige el editor para configurar el archivo de cronjobs
 #Se agrega la siguiente linea al archivo, con la ruta del script de la actividad2
 #*/5 * * * * /home/polares/Documentos/2S2024/Sistemas Operativos 1/actividad2.sh
 #Se guarda y se cierra el archivo
