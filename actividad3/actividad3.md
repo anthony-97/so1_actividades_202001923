@@ -3,8 +3,7 @@
 ##
 ##### Anthony Alexander Aquino Santiago - 202001923
 ##
-##
-##
+
 ## Parte 1 - Gestión de usuarios
 ### 1. Creación de usuarios
 ```
